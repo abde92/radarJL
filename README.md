@@ -12,4 +12,4 @@ This project models and simulates an altimeter radar system using Julia, focusin
 * Sweep direction of the FMCW waveform: Triangle
 * Receiver noise figure: 8 dB
 
-Radar parameters were extracted based on Table 2 in [ITU drecommendation document](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2059-0-201402-I!!PDF-E.pdf)
+Radar parameters were extracted based on Table 2 in [ITU recommendation document](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2059-0-201402-I!!PDF-E.pdf)
