@@ -1,4 +1,4 @@
-# radarJL: Altimeter RADAR System Simulation
+# radarJL: RADAR Altimeter Simulation
 ## Overview
 This project models and simulates an altimeter radar system using Julia, focusing on the basic principles of radar technology and altitude determination. The current version is a low fidelity model, designed for educational purposes and initial prototyping. Future phases will enhance the model’s fidelity by integrating more complex dynamics and realistic conditions.
 
